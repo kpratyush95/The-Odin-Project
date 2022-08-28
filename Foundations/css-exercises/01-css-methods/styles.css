@@ -1,6 +1,7 @@
-.div{
+div{
     background-color: red;
-    font-size: 32;
+    font-size: 32px;
     align-content: center;
     color: white;
+    font-weight: bold;
 }
